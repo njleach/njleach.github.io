@@ -16,7 +16,7 @@
 title: njleach
 email: nicholas.leach@stx.ox.ac.uk
 description: physics | climate | python
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nickleach0
 github_username:  njleach
