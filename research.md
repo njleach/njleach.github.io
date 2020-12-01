@@ -1,9 +1,12 @@
 ---
-layout: test1
+layout: page
+title: research
 ---
 
-## Research
+## Extreme event attribution
 
-### FaIR
+## FaIR
 
 {% include FaIR_interactive_projections.html %}
+
+## FABLE
