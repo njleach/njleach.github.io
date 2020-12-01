@@ -1,6 +1,7 @@
 ---
 layout: page
 title: research
+permalink: /research/
 ---
 
 ## Extreme event attribution
