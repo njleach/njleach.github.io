@@ -17,6 +17,7 @@
 /*
  * Contents
  *
+ * Defined variables
  * Global resets
  * Sidebar
  * Container
@@ -24,6 +25,23 @@
  * Themes
  */
 
+/* 
+  * Defined variables
+  * 
+  * Sets a few pre-defined colors / fontsizes for use in the theme
+  */
+
+:root {
+  --main-color: #1e90ff;
+  --highlight-color: #ffffff;
+  --supress-color: ;
+  --bg-color: ;
+  --sidebar-item-color: #fffc;
+  --sidebar-highlight-color: #fff;
+  --sidebar-subtitle-color: #fff7;
+  --sidebar-supress-color: #fff3;
+  --sidebar-bg-color: #2B59C3;
+}
 
 /*
  * Global resets
@@ -56,8 +74,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: var(--sidebar-main-color);
+  background-color: var(--sidebar-bg-color);
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -77,13 +95,13 @@ html {
   margin-top: 1em;
 }
 .sidebar-about a {
-  color: #fff;
+  color: var(--sidebar-highlight-color);
   font-family: "Lato";
   font-size: 3.25rem;
   margin-bottom: 0;
 }
 .sidebar-about p {
-  color: #fff8;
+  color: var(--sidebar-subtitle-color);
   font-family: "Lato";
   font-weight: 500;
   text-align: right;
@@ -102,17 +120,24 @@ html {
   line-height: 2;
 }
 a.sidebar-nav-item {
-  color: #ddd;
+  color: var(--sidebar-item-color);
   text-align: center;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  color: #fff;
+  color: var(--sidebar-highlight-color);
 }
 .sidebar-nav-item.active {
   font-weight: bold;
   font-size: 1.3em;
   line-height: 1.53em;
+}
+.sidebar-sticky-low {
+  color: var(--sidebar-supress-color);
+}
+.sidebar-sticky-low a{
+  color: var(--sidebar-item-color);
+  font-size: 1rem;
 }
 
 /* Sticky sidebar
@@ -131,10 +156,9 @@ a.sidebar-nav-item:focus {
 
   .sidebar-sticky-low {
     position: absolute;
-    right:  0rem;
-    bottom: 0rem;
-    left:   0rem;
-    color: #444;
+    right:  1rem;
+    bottom: 1rem;
+    left:   1rem;
   }
 }
 

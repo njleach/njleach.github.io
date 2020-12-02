@@ -1,0 +1,17 @@
+email:
+  id: 'nicholas.leach@stx.ox.ac.uk'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope'
+
+twitter:
+  id: 'nickleach0'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter'
+
+github:
+  id: 'njleach'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github'
