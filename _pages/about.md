@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-## Content
+Content

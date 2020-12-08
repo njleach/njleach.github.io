@@ -32,10 +32,14 @@
   */
 
 :root {
-  --main-color: #1e90ff;
-  --highlight-color: #ffffff;
-  --supress-color: ;
-  --bg-color: ;
+  --main-color: #666;
+  --title-color: #313131;
+  --highlight-color: #2B59C3;
+  --supress-color: #fff7;
+  --link-color: #666;
+  --code-color-inline: #666;
+  --code-color: #666;
+  --bg-color: #fff;
   --sidebar-item-color: #fffc;
   --sidebar-highlight-color: #fff;
   --sidebar-subtitle-color: #fff7;

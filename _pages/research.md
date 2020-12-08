@@ -8,6 +8,8 @@ permalink: /research/
 
 ## FaIR
 
+<div class='figure-container'>
 {% include FaIR_interactive_projections.html %}
+</div>
 
 ## FABLE

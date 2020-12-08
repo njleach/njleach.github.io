@@ -1,0 +1,110 @@
+/* Set css scripts specific to mobile devices, < 768px */
+
+@media (max-width: 768px) {
+
+/* Sidebar */
+
+    .sidebar {
+        display: None;
+    }
+
+    .masthead {
+        background-color: var(--sidebar-bg-color);
+        position: fixed;
+        width: 100%;
+        top: 0;
+        height: 5.065rem;
+        z-index: 10;
+    }
+
+    .masthead h1, .masthead a {
+        color: var(--sidebar-highlight-color);
+        font-family: "Lato";
+        margin-top: 0;
+    }
+    .masthead h1 {
+        font-size: 3.25rem;
+    }
+    .masthead p{
+        color: var(--sidebar-subtitle-color);
+        margin-top: -1.5rem;
+        margin-left: 3rem;
+    }
+
+    body {
+        padding-top: 5.065rem;
+    }
+
+/* menu button */
+
+    .overlay {
+        /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+        height: 100%;
+        width: 100%;
+        position: fixed; /* Stay in place */
+        z-index: -1; /* Sit on top */
+        top: 0;
+        left: -100%;
+        background-color: var(--sidebar-bg-color); /* Black fallback color */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+    }
+
+    .overlay-content {
+        position: relative;
+        top: 25%; /* 25% from the top */
+        width: 100%; /* 100% width */
+        text-align: left; /* Centered text/links */
+        margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+    }
+
+    .overlay a {
+        padding: 8px;
+        text-decoration: none;
+        font-size: 3rem;
+        font-family: 'PT Sans';
+        font-weight: bold;
+        text-transform: uppercase;
+        color: var(--sidebar-item-color);
+        display: block; /* Display block instead of inline */
+        transition: 0.3s; /* Transition effects on hover (color) */
+    }
+
+    .overlay a:hover, .overlay a:focus {
+        color: var(--sidebar-highlight-color);
+    }
+
+    .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 45px;
+        font-size: 60px;
+    }
+
+    .masthead a.openbtn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 5.065rem;
+        line-height: 5.065rem;
+        padding: 0 1em;
+        font-size: 2rem;
+        font-weight: 200;
+        color: var(--sidebar-bg-color);
+        background-color: var(--sidebar-highlight-color);
+    }
+
+    .fa-plus {
+        transition: 0.3s;
+    }
+
+    #social-media {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    #social-media a {
+        display: inline;
+    }
+
+}
