@@ -1,6 +1,6 @@
 /* Set css scripts specific to mobile devices, < 768px */
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 
 /* Sidebar */
 

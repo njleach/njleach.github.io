@@ -12,6 +12,101 @@
 
 /* Sidebar */
 
+    .sidebar {
+        position: fixed;
+        padding: 2rem 1rem;
+        color: var(--sidebar-main-color);
+        background-color: var(--sidebar-bg-color);
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 18rem;
+        text-align: left;
+    }
+
+    /* Sidebar links */
+
+    .sidebar a {
+        color: var(--sidebar-item-color);
+    }
+    .sidebar a:hover,
+    .sidebar a:focus{
+        color: var(--sidebar-highlight-color);
+    }
+    .sidebar p{
+        color: var(--sidebar-subtitle-color);
+        font-family: "PT Sans";
+        font-weight: 500;
+    }
+
+    /* About section */
+    .sidebar-about h1 {
+        margin-top: 0em;
+    }
+    .sidebar-about a {
+        color: var(--sidebar-highlight-color);
+        font-family: "Lato";
+        font-size: 3.25rem;
+        margin-bottom: 0;
+    }
+    .sidebar-about p {
+        text-align: right;
+        font-size: 0.9rem;
+        margin-top: -0.5rem;
+        line-height: 0px;
+    }
+
+    /* Sidebar nav */
+    .sidebar-nav {
+        margin-bottom: 1rem;
+        margin-top: 5rem;
+    }
+    .sidebar-nav-item {
+        display: block;
+        line-height: 2;
+    }
+    a.sidebar-nav-item {
+        text-align: left;
+        font-size: 2rem;
+        text-transform: uppercase;
+    }
+    .sidebar-nav-item.active {
+        font-weight: bold;
+        font-size: 2.25rem;
+    }
+    .sidebar-sticky-low {
+        color: var(--sidebar-supress-color);
+    }
+    .sidebar-sticky-low a{
+        color: var(--sidebar-item-color);
+        font-size: 1rem;
+    }
+    .sidebar-sticky {
+        position: absolute;
+        right:  1rem;
+        top: 1rem;
+        left:   1rem;
+    }
+    .sidebar-sticky-footer {
+        position: absolute;
+        right:  1rem;
+        bottom: 1rem;
+        left:   1rem;
+    }
+    .sidebar-sticky-footer p {
+        font-size: 0.8em;
+    }
+    .sidebar-sticky-footer a {
+        font-size: 2em;
+    }
+
+    /* Content */
+
+    .content {
+        max-width: 38rem;
+        margin-left: 20rem;
+        margin-right: 2rem;
+    }
 
 
 }
