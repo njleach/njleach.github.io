@@ -22,6 +22,10 @@ url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nickleach0
 github_username:  njleach
 
+# Pagination
+paginate: 5 # amount of posts to show
+excerpt_separator: "<!--more-->"
+
 # Build settings
 markdown: kramdown
 plugins:
