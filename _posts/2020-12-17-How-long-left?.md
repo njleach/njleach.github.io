@@ -1,10 +1,11 @@
 ---
 layout: post
+title: How long left?
 ---
-A recent [CarbonBrief analysis](https://www.carbonbrief.org/analysis-when-might-the-world-exceed-1-5c-and-2c-of-global-warming) estimated when two key global temperature targets (1.5 and 2.0 &deg;C) would be exceeded using an ensemble of climate models from CMIP6. Inspired by this, I thought I'd try and carry out something similar, but using a probabilistic FaIRv2.0 simple climate model ensemble[<sup>1</sup>](#1).<!--more--> I go on for a while about the model and ensemble, so if you're only interested in the [results](#results), skip the next couple of sections!
+A recent [CarbonBrief analysis](https://www.carbonbrief.org/analysis-when-might-the-world-exceed-1-5c-and-2c-of-global-warming) estimated when two key global temperature targets (1.5 and 2.0 &deg;C) would be exceeded using an ensemble of climate models from CMIP6. Inspired by this, I thought I'd try and carry out something similar, but using a large probabilistic simple climate model ensemble rather than the complex CMIP6 model ensemble in the original article.<!--more--> I go on for a while about the model and ensemble, so if you're only interested in the [results](#results), skip the next couple of sections!
 
 ### The FaIRv2.0 model
-I've used a recent update (v2.0) to the FaIR simple climate model for this analysis. I'll leave covering the specifics of the model to (possibly) another post, but in short FaIRv2.0 simluates the climate response to 44 different greenhouse gases and 7 types of aerosol emission, by stepping through input emissions &#8594; concentrations &#8594; effective radiative forcing &#8594; global mean surface temperature change. More on the model is available in the the [paper pre-print](https://doi.org/10.5194/gmd-2020-390), or this short thread I wrote:
+I've used a recent update[<sup>1</sup>](#1) (v2.0) to the FaIR simple climate model for this analysis. I'll leave covering the specifics of the model to (possibly) another post, but in short FaIRv2.0 simluates the climate response to 44 different greenhouse gases and 7 types of aerosol emission, by stepping through input emissions &#8594; concentrations &#8594; effective radiative forcing &#8594; global mean surface temperature change. More on the model is available in the the [paper pre-print](https://doi.org/10.5194/gmd-2020-390), or this short thread I wrote:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our preprint for an update to FaIR (v2.0.0) has been posted to GMD Discussions today, comments welcome! Brief thread below, but in one sentence: we&#39;ve tried to make FaIR even simpler and demonstrated a couple of use cases. THREAD 1/ <a href="https://t.co/jMRVYQEwkx">https://t.co/jMRVYQEwkx</a></p>&mdash; Nick Leach (@nickleach0) <a href="https://twitter.com/nickleach0/status/1331563458190569474?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -37,7 +38,7 @@ So now that I've baselined my warming at a reasonable estimate of "the present",
 {% include Target_crossing_FaIR.html %}
 </div>
 
-My results are broadly similar to those found in the CarbonBrief article. Within my ensemble, for the worst-case SSP5-85 scenario, 1.5 &deg;C is crossed in 2031 [2025 - 2040] and 2.0 &deg;C is crossed in 2045 [2035 - 2056]. For the modest mitigation SSP2-45 scenario, 1.5 &deg;C is passed in 2036 [2028 - 2048] and 2.0 &deg;C in 2060 [2043 - 2095].
+My results are broadly similar to those found in the CarbonBrief article. Within my ensemble, for the worst-case SSP5-85 scenario, 1.5 &deg;C is crossed in 2031 [2025 - 2040] and 2.0 &deg;C is crossed in 2045 [2035 - 2056]. For the modest mitigation SSP2-45 scenario, 1.5 &deg;C is passed in 2036 [2028 - 2048] and 2.0 &deg;C in 2060 [2043 - 2095]. In general, crossing times found using the FaIR probabilistic ensemble tend to be slightly further away than those calculated by CarbonBrief. I suspect this is largely a reflection of the distribution of Transient Climate Response (TCR) within the FaIR ensemble compared to the CMIP6 ensemble. The constraint imposed to construct the FaIR ensemble shifts the ensemble TCR towards cooler values than would be inferred directly from the CMIP6 ensemble.
 
 Something that may seem a little odd is that the expected crossing time is furthest away from today for the middle SSP2-45 scenario, rather than one of the scenarios with more ambitious emissions mitigation. The reason behind this possibly counterintuitive result is selection bias. Considerably fewer than 100% of the ensemble actually exceed each temperature target (for SSP1-19, only 4% of members end up exceeding 2.0 &deg;C). However, as you might expect, the members that do end up exceeding each target tend to be those with some combination of high climate sensitivity and strong aerosol forcing, resulting in higher warming rates than the constrained ensemble as a whole.
 
@@ -53,7 +54,7 @@ HadCRUT5 lowess| LOWESS filter applied to HadCRUT5 evaluated in 2018, relative t
 SR1.5-1| definition of historical warming over 2006-2015 relative to 1850-1900 used in SR1.5[<sup>14</sup>](#14) Chapter 1
 SR1.5-2| definition of global near-surface temperature over 2006-2015 relative to 1850-1900 used in SR1.5 Chapter 2
 
-Below is a figure outlining the results of re-calculating the crossing time for the SSP2-45 scenario over the various baselines. For the 2.0 &deg;C, the discrepancies between the different baselines are small in comparison to the differences between SSPs in the figure above. However, they become more significant for the 1.5 &deg;C target, making a different to the central estimate of up to 4 years. 
+Below is a figure outlining the results of re-calculating the crossing time for the SSP2-45 scenario over the various baselines. For the 2.0 &deg;C, the discrepancies between the different baselines are small in comparison to the differences between SSPs in the figure above. However, they become more significant for the 1.5 &deg;C target, making a difference to the central estimate of up to 4 years. The changes in uncertainty between the baselines are introduced by averaging over different periods (eg. if you baseline relative to the single year 2019, the ensemble spreads out less than if you baseline relative to the 2010-19 decade, hence the crossing time distribution is more confident).
 
 <div class='figure-container' >
 {% include alternative_Target_crossing_FaIR.html %}
@@ -61,6 +62,8 @@ Below is a figure outlining the results of re-calculating the crossing time for 
 
 ## Thoughts
 This was an interesting, albeit slightly too time-consuming exercise. It's nice to see that the FaIR ensemble gives comparable results to the far more complex CMIP6 models used in the CarbonBrief analysis. In the future I'll likely update the GWI (and therefore the constrained ensemble) computation to use the HadCRUT5 dataset and associated observational uncertainty. I'd have thought the impact of this would be to slightly increase the amount of warming projected by the ensemble, since HadCRUT5 is a little warmer than the 5-dataset mean I've used thus far.
+
+At the end of this type of analysis, I feel it's important to emphasize that while the 1.5 and 2.0 &deg;C targets are incredibly important due to their political significance - hence why I've used them in this analysis, they are not physical thresholds (or tipping points) beyond which the impacts of global warming suddenly get a lot worse. From a physical point of view, the impacts at 1.49 &deg;C warming are near identical to those at 1.51 &deg;C. For this reason, the mitigation goal is simply get emissions down as quickly as is possible to do equitably, and avoid much warming as is possible, regardless of whether we make or miss these specific temperature targets. 
 
 ### References
 <a id="1"><sup>1</sup></a>

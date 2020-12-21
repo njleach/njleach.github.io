@@ -1,6 +1,6 @@
 /* Set css scripts specific to mobile devices, < 768px */
 
-@media (max-width: 767px) {
+@media (max-width: 767px) , (max-height: 467px) {
 
 /* Sidebar */
 
@@ -8,24 +8,25 @@
         display: None;
     }
 
-    .masthead {
+    #masthead {
         background-color: var(--sidebar-bg-color);
         position: fixed;
         width: 100%;
         top: 0;
         height: 5.065rem;
         z-index: 10;
+        transition: top 0.5s;
     }
 
-    .masthead h1, .masthead a {
+    #masthead h1, #masthead a {
         color: var(--sidebar-highlight-color);
         font-family: "Lato";
         margin-top: 0;
     }
-    .masthead h1 {
+    #masthead h1 {
         font-size: 3.25rem;
     }
-    .masthead p{
+    #masthead p{
         color: var(--sidebar-subtitle-color);
         margin-top: -1.5rem;
         margin-left: 3rem;
@@ -44,7 +45,7 @@
         position: fixed; /* Stay in place */
         z-index: -1; /* Sit on top */
         top: 0;
-        left: -100%;
+        left: 100%;
         background-color: var(--sidebar-bg-color); /* Black fallback color */
         overflow-x: hidden; /* Disable horizontal scroll */
         transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
@@ -81,7 +82,7 @@
         font-size: 60px;
     }
 
-    .masthead a.openbtn {
+    #masthead a.openbtn {
         position: absolute;
         top: 0;
         right: 0;

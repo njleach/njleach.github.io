@@ -1,6 +1,6 @@
 /* Set css scripts specific to wide devices, > 768px */
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (min-height: 468px) {
 
     @media (min-height: 768px) {
 
@@ -10,7 +10,7 @@
 
     }
 
-    .masthead {
+    #masthead {
         display: None;
     }
 

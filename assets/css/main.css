@@ -109,7 +109,7 @@ dd {
 /* Misc */
 hr {
     position: relative;
-    margin: 1.5rem 0;
+    margin: 2em 0;
     border: 0;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #fff;
@@ -278,7 +278,7 @@ tbody tr:nth-child(odd) th {
 /* Posts and Pages */
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */
@@ -303,7 +303,7 @@ tbody tr:nth-child(odd) th {
 /* Related posts */
 .related {
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   border-top: 1px solid #eee;
 }
 .related-posts {
@@ -323,6 +323,14 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li a:hover small {
   color: inherit;
+}
+
+/* Comments using utteranc.es */
+
+.utterances {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 768px;
 }
 
 /* Pagination */
