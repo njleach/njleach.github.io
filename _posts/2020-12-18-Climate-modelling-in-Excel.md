@@ -45,7 +45,7 @@ This is where you set-up how you want the model to be run:
 
 ## Model output
 
-The calculation tabs contain the "raw" model output. If you wish to do further data analysis in Excel or another programme, copy the data directly from these tabs as desired. However, the "reporting" tab contains a variety of key model outputs and charts that users may find sufficient. Some notes on the options provided are below:
+The calculation tabs contain the "raw" model output. If you wish to do further data analysis in Excel or another programme, copy the data directly from these tabs as desired. For instance, if you want to compute the difference in temperature attributable to a specific emission perturbation, you'll need to run the baseline, save the output, then run again with the perturbation, save the output, and finally difference the two outputs. However, the "reporting" tab contains a variety of key model outputs and charts that users may find sufficient. Some notes on the options provided are below:
 
 ##### Output options
 - agent to chart: choose any of the agents selected to display their emissions / cumulative emissions / concentrations / ERF in the charts.
