@@ -47,12 +47,13 @@ Here I have made a choice over what I take to be the "current" level of warming 
 
 baseline | description 
 ---|---
-5-dataset 2010-19| as above, the mean of 5 datasets averaged over 2010-2019, relative to the 1861-1880 mean
-5-dataset lowess| LOWESS filter applied to the 5-dataset mean evaluated in 2019, relative to the 1861-1880 mean
-HadCRUT5 2009-18| 2009-2018 average of HadCRUT5[<sup>13</sup>](#13), relative to the 1861-1880 mean
-HadCRUT5 lowess| LOWESS filter applied to HadCRUT5 evaluated in 2018, relative to the 1861-1880 mean
-SR1.5-1| definition of historical warming over 2006-2015 relative to 1850-1900 used in SR1.5[<sup>14</sup>](#14) Chapter 1
-SR1.5-2| definition of global near-surface temperature over 2006-2015 relative to 1850-1900 used in SR1.5 Chapter 2
+5-dataset 2010-19| as above, the mean of 5 datasets averaged over 2010-2019, relative to the 1861-1880 mean = 1.00 &deg;C
+5-dataset lowess| LOWESS filter applied to the 5-dataset mean evaluated in 2019, relative to the 1861-1880 mean = 1.15 &deg;C
+HadCRUT5 2009-18| 2009-2018 average of HadCRUT5[<sup>13</sup>](#13), relative to the 1861-1880 mean = 1.04 &deg;C
+HadCRUT5 lowess| LOWESS filter applied to HadCRUT5 evaluated in 2018, relative to the 1861-1880 mean = 1.12
+PA compatible| Paris agreement compatible definition of the 1.5 &deg;C target[<sup>14</sup>](#14): 0.9 &deg;C above 1986-2005 mean
+SR1.5-1| definition of historical warming over 2006-2015 relative to 1850-1900 used in SR1.5[<sup>15</sup>](#15) Chapter 1 = 0.87 &deg;C
+SR1.5-2| definition of global near-surface temperature over 2006-2015 relative to 1850-1900 used in SR1.5 Chapter 2 = 0.97 &deg;C
 
 Below is a figure outlining the results of re-calculating the crossing time for the SSP2-45 scenario over the various baselines. For the 2.0 &deg;C, the discrepancies between the different baselines are small in comparison to the differences between SSPs in the figure above. However, they become more significant for the 1.5 &deg;C target, making a difference to the central estimate of up to 4 years. The changes in uncertainty between the baselines are introduced by averaging over different periods (eg. if you baseline relative to the single year 2019, the ensemble spreads out less than if you baseline relative to the 2010-19 decade, hence the crossing time distribution is more confident).
 
@@ -106,4 +107,7 @@ At the end of this type of analysis, I feel it's important to emphasize that whi
 [Morice, C. P., Kennedy, J. J., Rayner, N. A., Winn, J. P., Hogan, E., Killick, R. E., … Simpson, I. R. (2020). An updated assessment of near‐surface temperature change from 1850: the HadCRUT5 dataset. Journal of Geophysical Research: Atmospheres.](https://doi.org/10.1029/2019JD032361)
 
 <a id="14"><sup>14</sup></a>
+[Tokarska, K. B., Schleussner, C.-F., Rogelj, J., Stolpe, M. B., Matthews, H. D., Pfleiderer, P., & Gillett, N. P. (2019). Recommended temperature metrics for carbon budget estimates, model evaluation and climate policy. Nature Geoscience, 12(12), 964–971.](https://doi.org/10.1038/s41561-019-0493-5)
+
+<a id="15"><sup>15</sup></a>
 [IPCC. (2018). Global warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, (V. Masson-Delmotte, P. Zhai, H. O. Pörtner, D. Roberts, J. Skea, P. R. Shukla, … T. Waterfield, eds.).](https://www.ipcc.ch/sr15/)
