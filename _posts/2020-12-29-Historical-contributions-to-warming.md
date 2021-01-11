@@ -80,7 +80,7 @@ Now let's split up the anthropogenic contribution into the categories given abov
 {% include attr_post_FaIR_rf-timeseries.html %}
 </div>
 
-<b>You can find a full-page waterfall chart version of this figure [here]({{ site.base_url }}{% link _pages/components-of-global-warming.md %}).</b>
+<b>You can find a full-page waterfall chart version of theses boxplots [here]({{ site.base_url }}{% link _pages/components-of-global-warming.md %}).</b>
 
 There are a couple of things I think it's worth noting here:
 - The (very uncertain) contribution of aerosols is to currently mask about half a degree of warming.
