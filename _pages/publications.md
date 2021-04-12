@@ -4,6 +4,10 @@ title: publications
 permalink: /publications/
 ---
 
+### 2021
+
+[Jan Van Oldenborgh, G., Krikken, F., Lewis, S., Leach, N. J., Lehner, F., Saunders, K. R., … Otto, F. E. L. (2021). **Attribution of the Australian bushfire risk to anthropogenic climate change**. Natural Hazards and Earth System Sciences, 21(3), 941–960.](https://doi.org/10.5194/nhess-21-941-2021)
+
 ### 2020
 
 [Leach, N. J., Li, S., Sparrow, S. N., van Oldenborgh, G. J., Lott, F. C., Weisheimer, A., & Allen, M. R. (2020). **ANTHROPOGENIC INFLUENCE ON THE 2018 SUMMER WARM SPELL IN EUROPE: THE IMPACT OF DIFFERENT SPATIO-TEMPORAL SCALES [in “Explaining Extremes of 2018 from a Climate Perspective”]**. Bulletin of the American Meteorological Society, 101(1), S41–S46. https://doi.org/10.1175/BAMS-D-19-0201.1](https://doi.org/10.1175/BAMS-D-19-0201.1)
@@ -11,8 +15,6 @@ permalink: /publications/
 #### submitted
 
 [Leach, N. J., Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., … Allen, M. R. (2020). **FaIRv2.0.0: a generalised impulse-response model for climate uncertainty and future scenario exploration**. Geosci. Model Dev. Discuss., 2020, 1–48. https://doi.org/10.5194/gmd-2020-390](https://doi.org/10.5194/gmd-2020-390)
-
-[van Oldenborgh, G. J., Krikken, F., Lewis, S., Leach, N. J., Lehner, F., Saunders, K. R., … Otto, F. E. L. (2020). **Attribution of the Australian bushfire risk to anthropogenic climate change**. Nat. Hazards Earth Syst. Sci. Discuss., 2020, 1–46. https://doi.org/10.5194/nhess-2020-69](https://doi.org/10.5194/nhess-2020-69)
 
 ### 2019
 
