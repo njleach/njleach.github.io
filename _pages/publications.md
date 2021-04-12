@@ -12,9 +12,13 @@ permalink: /publications/
 
 [Leach, N. J., Li, S., Sparrow, S. N., van Oldenborgh, G. J., Lott, F. C., Weisheimer, A., & Allen, M. R. (2020). **ANTHROPOGENIC INFLUENCE ON THE 2018 SUMMER WARM SPELL IN EUROPE: THE IMPACT OF DIFFERENT SPATIO-TEMPORAL SCALES [in “Explaining Extremes of 2018 from a Climate Perspective”]**. Bulletin of the American Meteorological Society, 101(1), S41–S46. https://doi.org/10.1175/BAMS-D-19-0201.1](https://doi.org/10.1175/BAMS-D-19-0201.1)
 
+[R. J. Nicholls, Z., Meinshausen, M., Lewis, J., Gieseke, R., Dommenget, D., Dorheim, K., … Xie, Z. (2020). **Reduced Complexity Model Intercomparison Project Phase 1: Introduction and evaluation of global-mean temperature response**. Geoscientific Model Development, 13(11), 5175–5190.](https://doi.org/10.5194/gmd-13-5175-2020)
+
 #### submitted
 
 [Leach, N. J., Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., … Allen, M. R. (2020). **FaIRv2.0.0: a generalised impulse-response model for climate uncertainty and future scenario exploration**. Geosci. Model Dev. Discuss., 2020, 1–48. https://doi.org/10.5194/gmd-2020-390](https://doi.org/10.5194/gmd-2020-390)
+
+[Nicholls, Z. R. J., Meinshausen, M. A., Lewis, J., Rojas Corradi, M., Dorheim, K., Gasser, T., … et al. (2020). **Reduced Complexity Model Intercomparison Project Phase 2: Synthesising Earth system knowledge for probabilistic climate projections**. Earth and Space Science Open Archive, 29.](https://doi.org/10.1002/ESSOAR.10504793.1)
 
 ### 2019
 
