@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### 2021
 
-[<u>Leach</u>, N. J., Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., Walsh, T., Wu, B., Tsutsui, J., and Allen, M. R. (2021). FaIRv2.0.0: a generalized impulse response model for climate uncertainty and future scenario exploration, Geosci. Model Dev., 14, 3007–3036.](https://doi.org/10.5194/gmd-14-3007-2021)
+[<u>Leach</u>, N. J., Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., Walsh, T., Wu, B., Tsutsui, J., and Allen, M. R. (2021). **FaIRv2.0.0: a generalized impulse response model for climate uncertainty and future scenario exploration**, Geosci. Model Dev., 14, 3007–3036.](https://doi.org/10.5194/gmd-14-3007-2021)
 
-[Nicholls, Z., Meinshausen, M., Lewis, J., Corradi, M. R., Dorheim, K., Gasser, T., <u>et al.</u> (2021). Reduced complexity Model Intercomparison Project Phase 2: Synthesizing Earth system knowledge for probabilistic climate projections. Earth's Future, 9, e2020EF001900.](https://doi.org/10.1029/2020EF001900)
+[Nicholls, Z., Meinshausen, M., Lewis, J., Corradi, M. R., Dorheim, K., Gasser, T., <u>et al.</u> (2021). **Reduced complexity Model Intercomparison Project Phase 2: Synthesizing Earth system knowledge for probabilistic climate projections**. Earth's Future, 9, e2020EF001900.](https://doi.org/10.1029/2020EF001900)
 
 [Jan Van Oldenborgh, G., Krikken, F., Lewis, S., <u>Leach, N. J.</u>, Lehner, F., Saunders, K. R., … Otto, F. E. L. (2021). **Attribution of the Australian bushfire risk to anthropogenic climate change**. Natural Hazards and Earth System Sciences, 21(3), 941–960.](https://doi.org/10.5194/nhess-21-941-2021)
 
