@@ -6,19 +6,21 @@ permalink: /publications/
 
 ### 2021
 
+[<u>Leach</u>, N. J., Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., Walsh, T., Wu, B., Tsutsui, J., and Allen, M. R. (2021). FaIRv2.0.0: a generalized impulse response model for climate uncertainty and future scenario exploration, Geosci. Model Dev., 14, 3007–3036.](https://doi.org/10.5194/gmd-14-3007-2021)
+
+[Nicholls, Z., Meinshausen, M., Lewis, J., Corradi, M. R., Dorheim, K., Gasser, T., <u>et al.</u> (2021). Reduced complexity Model Intercomparison Project Phase 2: Synthesizing Earth system knowledge for probabilistic climate projections. Earth's Future, 9, e2020EF001900.](https://doi.org/10.1029/2020EF001900)
+
 [Jan Van Oldenborgh, G., Krikken, F., Lewis, S., <u>Leach, N. J.</u>, Lehner, F., Saunders, K. R., … Otto, F. E. L. (2021). **Attribution of the Australian bushfire risk to anthropogenic climate change**. Natural Hazards and Earth System Sciences, 21(3), 941–960.](https://doi.org/10.5194/nhess-21-941-2021)
+
+#### submitted
+
+[<u>Leach</u>, N. J., Weisheimer, A., Allen, M. R., Palmer, T. (2021). Forecast-based attribution of a winter heatwave within the limit of predictability. in submiss. PNAS]()
 
 ### 2020
 
 [<u>Leach, N. J.</u>, Li, S., Sparrow, S. N., van Oldenborgh, G. J., Lott, F. C., Weisheimer, A., & Allen, M. R. (2020). **ANTHROPOGENIC INFLUENCE ON THE 2018 SUMMER WARM SPELL IN EUROPE: THE IMPACT OF DIFFERENT SPATIO-TEMPORAL SCALES [in “Explaining Extremes of 2018 from a Climate Perspective”]**. Bulletin of the American Meteorological Society, 101(1), S41–S46. https://doi.org/10.1175/BAMS-D-19-0201.1](https://doi.org/10.1175/BAMS-D-19-0201.1)
 
 [R. J. Nicholls, Z., Meinshausen, M., Lewis, J., Gieseke, R., Dommenget, D., Dorheim, K., … Xie, Z. (2020). **Reduced Complexity Model Intercomparison Project Phase 1: Introduction and evaluation of global-mean temperature response**. Geoscientific Model Development, 13(11), 5175–5190.](https://doi.org/10.5194/gmd-13-5175-2020)
-
-#### submitted
-
-[<u>Leach, N. J.</u>, Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., … Allen, M. R. (2020). **FaIRv2.0.0: a generalised impulse-response model for climate uncertainty and future scenario exploration**. Geosci. Model Dev. Discuss., 2020, 1–48. https://doi.org/10.5194/gmd-2020-390](https://doi.org/10.5194/gmd-2020-390)
-
-[Nicholls, Z. R. J., Meinshausen, M. A., Lewis, J., Rojas Corradi, M., Dorheim, K., Gasser, T., … et al. (2020). **Reduced Complexity Model Intercomparison Project Phase 2: Synthesising Earth system knowledge for probabilistic climate projections**. Earth and Space Science Open Archive, 29.](https://doi.org/10.1002/ESSOAR.10504793.1)
 
 ### 2019
 
