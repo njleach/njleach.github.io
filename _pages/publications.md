@@ -14,7 +14,7 @@ permalink: /publications/
 
 #### submitted
 
-[<u>Leach</u>, N. J., Weisheimer, A., Allen, M. R., Palmer, T. (2021). Forecast-based attribution of a winter heatwave within the limit of predictability. in submiss. PNAS]()
+[<u>Leach</u>, N. J., Weisheimer, A., Allen, M. R., Palmer, T. (2021). **Forecast-based attribution of a winter heatwave within the limit of predictability**. in submiss. PNAS]()
 
 ### 2020
 
