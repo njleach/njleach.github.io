@@ -14,7 +14,9 @@ permalink: /publications/
 
 #### submitted
 
-[<u>Leach</u>, N. J., Weisheimer, A., Allen, M. R., Palmer, T. (2021). **Forecast-based attribution of a winter heatwave within the limit of predictability**. in submiss. PNAS]()
+[<u>Leach</u>, N. J., Weisheimer, A., Allen, M. R., Palmer, T. (2021). **Forecast-based attribution of a winter heatwave within the limit of predictability**. in press. PNAS]()
+
+[<u>Leach</u>, N. J., Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. under review. Weather and Climate Extremes](https://doi.org/10.1002/essoar.10508424.1)
 
 ### 2020
 
