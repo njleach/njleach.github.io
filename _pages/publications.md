@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2021
 
-[<u>Leach, N. J.</u>, Weisheimer, A., Allen, M. R., & Palmer, T. (2021). Forecast-based attribution of a winter heatwave within the limit of predictability. Proceedings of the National Academy of Sciences, 118(49).](https://doi.org/10.1073/pnas.2112087118)
+[<u>Leach, N. J.</u>, Weisheimer, A., Allen, M. R., & Palmer, T. (2021). **Forecast-based attribution of a winter heatwave within the limit of predictability**. Proceedings of the National Academy of Sciences, 118(49).](https://doi.org/10.1073/pnas.2112087118)
 
 [<u>Leach, N. J.</u>, Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., Walsh, T., Wu, B., Tsutsui, J., and Allen, M. R. (2021). **FaIRv2.0.0: a generalized impulse response model for climate uncertainty and future scenario exploration**, Geosci. Model Dev., 14, 3007–3036.](https://doi.org/10.5194/gmd-14-3007-2021)
 
