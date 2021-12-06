@@ -6,7 +6,9 @@ permalink: /publications/
 
 ### 2021
 
-[<u>Leach</u>, N. J., Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., Walsh, T., Wu, B., Tsutsui, J., and Allen, M. R. (2021). **FaIRv2.0.0: a generalized impulse response model for climate uncertainty and future scenario exploration**, Geosci. Model Dev., 14, 3007–3036.](https://doi.org/10.5194/gmd-14-3007-2021)
+[<u>Leach, N. J.</u>, Weisheimer, A., Allen, M. R., & Palmer, T. (2021). Forecast-based attribution of a winter heatwave within the limit of predictability. Proceedings of the National Academy of Sciences, 118(49).](https://doi.org/10.1073/pnas.2112087118)
+
+[<u>Leach, N. J.</u>, Jenkins, S., Nicholls, Z., Smith, C. J., Lynch, J., Cain, M., Walsh, T., Wu, B., Tsutsui, J., and Allen, M. R. (2021). **FaIRv2.0.0: a generalized impulse response model for climate uncertainty and future scenario exploration**, Geosci. Model Dev., 14, 3007–3036.](https://doi.org/10.5194/gmd-14-3007-2021)
 
 [Nicholls, Z., Meinshausen, M., Lewis, J., Corradi, M. R., Dorheim, K., Gasser, T., <u>et al.</u> (2021). **Reduced complexity Model Intercomparison Project Phase 2: Synthesizing Earth system knowledge for probabilistic climate projections**. Earth's Future, 9, e2020EF001900.](https://doi.org/10.1029/2020EF001900)
 
@@ -14,9 +16,7 @@ permalink: /publications/
 
 #### submitted
 
-[<u>Leach</u>, N. J., Weisheimer, A., Allen, M. R., Palmer, T. (2021). **Forecast-based attribution of a winter heatwave within the limit of predictability**. in press. PNAS]()
-
-[<u>Leach</u>, N. J., Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. under review. Weather and Climate Extremes](https://doi.org/10.1002/essoar.10508424.1)
+[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. under review. Weather and Climate Extremes](https://doi.org/10.1002/essoar.10508424.1)
 
 ### 2020
 
