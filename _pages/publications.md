@@ -4,6 +4,12 @@ title: publications
 permalink: /publications/
 ---
 
+### 2022
+
+#### accepted
+
+[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. in press. Weather and Climate Extremes](https://doi.org/10.1002/essoar.10508424.1).
+
 ### 2021
 
 [<u>Leach, N. J.</u>, Weisheimer, A., Allen, M. R., & Palmer, T. (2021). **Forecast-based attribution of a winter heatwave within the limit of predictability**. Proceedings of the National Academy of Sciences, 118(49).](https://doi.org/10.1073/pnas.2112087118)
@@ -13,10 +19,6 @@ permalink: /publications/
 [Nicholls, Z., Meinshausen, M., Lewis, J., Corradi, M. R., Dorheim, K., Gasser, T., <u>et al.</u> (2021). **Reduced complexity Model Intercomparison Project Phase 2: Synthesizing Earth system knowledge for probabilistic climate projections**. Earth's Future, 9, e2020EF001900.](https://doi.org/10.1029/2020EF001900)
 
 [Jan Van Oldenborgh, G., Krikken, F., Lewis, S., <u>Leach, N. J.</u>, Lehner, F., Saunders, K. R., … Otto, F. E. L. (2021). **Attribution of the Australian bushfire risk to anthropogenic climate change**. Natural Hazards and Earth System Sciences, 21(3), 941–960.](https://doi.org/10.5194/nhess-21-941-2021)
-
-#### submitted
-
-[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. in press. Weather and Climate Extremes](https://doi.org/10.1002/essoar.10508424.1).
 
 ### 2020
 
