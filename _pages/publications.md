@@ -8,7 +8,7 @@ permalink: /publications/
 
 #### accepted
 
-[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. in press. Weather and Climate Extremes](https://doi.org/10.1002/essoar.10508424.1).
+[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2021). **Generating samples of extreme winters to support climate adaptation**. in press. Weather and Climate Extremes](https://doi.org/10.1016/j.wace.2022.100419).
 
 ### 2021
 
