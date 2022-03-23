@@ -2,7 +2,8 @@
 layout: post
 title: Climate modelling in Excel...
 ---
-You can download the implementation of the FaIRv2.0 model in Excel described in this post [here]({{ site.url }}/download/FaIRv2.0.0-alpha.zip "NOTE: I've only tested this workbook on my virtual Windows machine. Though it has worked for several others on both macOS and Windows machines, it has also been known to break, for reasons that are unclear to me... debugging Excel is a pain.").
+You can download the implementation of the FaIRv2.0 model in Excel described in this post [here](https://doi.org/10.5281/zenodo.4817949
+ "NOTE: I've only tested this workbook on my virtual Windows machine. Though it has worked for several others on both macOS and Windows machines, it has also been known to break, for reasons that are unclear to me... debugging Excel is a pain.").
 
 This is a brief post that introduces an Excel version of the FaIRv2.0 model[<sup>1</sup>](#1) that I've created. I go through some of the key features, suggest some experiments that you can do, and provide recipes for how to carry out a few different types of analyses with the model.<!--more--> Much of the information here is also available in the README file contained alongside the workbook in the `.zip` file. Something to make clear right from the start is that while I have tried to ensure everything is correct, including testing the model in as many configurations I can think of, there could still be mistakes. For this reason, for scientific or policy-relevant research, I'd strongly recommend using the "official" [python model version](https://github.com/OMS-NetZero/FAIR) where possible. 
 
