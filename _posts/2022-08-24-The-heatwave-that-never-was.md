@@ -72,7 +72,7 @@ I'll finally get to my point. <b>We have these extremely high-resolution and wel
 
 A couple of caveats that I should definitely mention - assessing the probability of such events from hindcast data is much trickier than (eg.) from large climate model ensembles. Hindcast ensemble members aren't independent, nor are hindcast ensembles as successive leads due to the existance of a predictable component of the weather. I do think it could be done with some work, but first you'd need to determine the true degrees of freedom in the ensemble. The second caveat is that the hindcast ensembles do not sample the full range of plausible weather, since they are only initialised from states that did actually happen. Hence although they might be able to give an indication of what extreme weather is plausible, it will always be possible that even more extreme weather could exist (and we just haven't seen the right state for it to materialise). <b>However, given that these hindcasts are run anyway, we may as well make use of the considerable information that they can provide despite these caveats.</b>
 
-<p id="99">**Using hindcast interchangeably with re-forecast here</p>
+<p id="99">**using hindcast interchangeably with re-forecast here</p>
 
 ### References
 <a id="1"><sup>1</sup></a>
