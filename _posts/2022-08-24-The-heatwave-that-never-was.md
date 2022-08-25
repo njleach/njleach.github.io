@@ -17,32 +17,28 @@ Henman beats Goran Ivanišević in the semi-finals. The south of the UK has been
 
 {% include image.html
             img="assets/images/how-hot-post/2001-07-07.png"
-            title="title for image"
-            rcaption="As above." %}
+            title="title for image" %}
 
 ##### July 9, 2001*
 Henman defeats Pat Rafter to win Wimbledon, becoming the first Brit in 65 years to do so. The heat over London has dropped as the dome moves sufficiently eastward, though still remains above average. Much of Central Europe is still experiencing temperatures in the high 30s. Some storms break over Spain and Portugal, reducing the soil moisture deficit there, but it remains exceptionally dry elsewhere.
 
 {% include image.html
             img="assets/images/how-hot-post/2001-07-09.png"
-            title="title for image"
-            rcaption="As above." %}
+            title="title for image" %}
 
 ##### July 11, 2001*
 Temperatures rise again as the block returns to a center around Belgium. Much of France and Spain is now experiencing temperatures in excess of 40°C: for some areas it is the second day of such highs. 
 
 {% include image.html
             img="assets/images/how-hot-post/2001-07-11.png"
-            title="title for image"
-            rcaption="As above." %}
+            title="title for image" %}
 
 ##### July 13, 2001*
 Temperatures peak in London at 41°C in East London, breaking a record set 11 year previously by 4°C. Huge areas of France see temperatures over 40°C. The dome has remained stationary for a few days now. 
 
 {% include image.html
             img="assets/images/how-hot-post/2001-07-13.png"
-            title="title for image"
-            rcaption="As above." %}
+            title="title for image" %}
 
 The hot spell calms down by the 18th, but by then some places in France have seen temperatures in excess of 40°C for 7 days straight.
 
@@ -55,7 +51,7 @@ The specific hindcast that this weather evolved in was run on 2019-06-27 and is 
 {% include image.html
             img="assets/images/how-hot-post/2001-07-13+mem+era5.png"
             title="title for image"
-            rcaption="<b>Top</b>, trajectories now include other hindcast members and what actually happened based on ERA5. <b>Bottom right</b>, as above but based on reality (ERA5)." %}
+            rcaption="<b>Top</b>, trajectories now include other hindcast members as well as what actually happened based on ERA5. <b>Bottom right</b>, as above but based on reality (ERA5)." %}
 
 ## What's the point of all this?
 
