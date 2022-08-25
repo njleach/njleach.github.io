@@ -8,7 +8,7 @@ I am a PhD student on the [Environmental Research Doctoral Training Partnership]
 
 I started out in climate change research during a summer research project (that I would develop into his masters thesis) investigating a simple method for estimating the remaining global carbon budget. While this particular field is no longer my focus, I still remain involved, especially in the use and development of reduced complexity climate models. I recently led a paper describing an update to the FaIR simple climate model.
 
-I completed his masters degree in physics (MPhys) at Oxford University, specialising in the Physics of Atmospheres and Oceans, and Astrophysics. For more information on my background and experience you can find my CV [here](https://docs.google.com/document/d/1ke_UVnF5HoJMO-T8L-gZQDUNUrJDG8QM9gtFZxgGUtg/edit?usp=sharing).
+I completed my masters degree in physics (MPhys) at Oxford University, specialising in the Physics of Atmospheres and Oceans, and Astrophysics. For more information on my background and experience you can find my CV [here](https://docs.google.com/document/d/1ke_UVnF5HoJMO-T8L-gZQDUNUrJDG8QM9gtFZxgGUtg/edit?usp=sharing).
 
 <!-- Suggest splitting html into:
 default
