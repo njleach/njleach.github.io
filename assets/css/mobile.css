@@ -109,13 +109,13 @@
     }
 
     /* Set caption location for images */
-    figure {
+    .image-wrapper {
         max-width: 100%;
         height: auto;
         align-items: center;
     }
 
-    figcaption {
+    .image-caption {
         text-align: center;
         font-size: .75rem;
         font-style: italic;

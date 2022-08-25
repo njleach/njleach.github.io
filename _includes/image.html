@@ -1,10 +1,10 @@
 <!-- _includes/image.html -->
-<figure>
+<div class="image-wrapper">
     {% if include.lcaption %}
-        <figcaption>{{ include.lcaption }}</figcaption>
+        <p class="image-caption">{{ include.lcaption }}</p>
     {% endif %}
     <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
     {% if include.rcaption %}
-        <figcaption>{{ include.rcaption }}</figcaption>
+        <p class="image-caption">{{ include.rcaption }}</p>
     {% endif %}
-</figure>
+</div>
