@@ -108,4 +108,17 @@
         display: inline;
     }
 
+    /* Set caption location for images */
+    figure {
+        max-width: 100%;
+        height: auto;
+        align-items: center;
+    }
+
+    figcaption {
+        text-align: center;
+        font-size: .75rem;
+        font-style: italic;
+    }
+
 }
