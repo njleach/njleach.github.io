@@ -4,6 +4,9 @@ title: research
 permalink: /research/
 ---
 
+## Storm-related climate risk
+At Climate X, I am responsible for quantifying both the risk from storms in the present, and how it is changing with global warming. I have experience researching windstorms in Europe and tropical cyclones across the globe. This has so far involved adapting a spatially explicit statistical approach for quantifying risk to a non-stationary climate, and applying it to regional climate model simulations (paper in prep.). I'm currently working on how we can make best use of the hierarchy of models available for assessing extreme weather risk. As part of this work, I spend a significant amount of time writing up and optimising code to carry out geospatial and/or statistical analyses on large datasets in python.
+
 ## Forecast-based attribution of extreme weather events
 The primary focus of my research looks into how climate change is affecting individual extreme weather events. Due to the fact that no directly observable world without human influence on the climate exists, all approaches attempting to answer this question involve some form of modelling, either numerical or statistical. In general, extreme event attribution studies now tend to rely on relatively coarse climate models, and use several different approaches or models to assess the robustness of their conclusions. My work aims to adapt weather forecast models that are demonstrably able to simulate the actual weather extreme being studied to allow them to answer this same question. You can read more about why I am doing this [here](https://www.carbonbrief.org/guest-post-how-weather-forecasts-can-spark-a-new-kind-of-extreme-event-attribution).
 

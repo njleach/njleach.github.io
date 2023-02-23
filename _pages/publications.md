@@ -4,9 +4,19 @@ title: publications
 permalink: /publications/
 ---
 
+### 2023
+
+[Floess, E., Grieshop, A., Puzzolo, E., Pope, D., <u>Leach, N.</u>, Smith, C. J., ... & Bailis, R. (2023). **Scaling up gas and electric cooking in low-and middle-income countries: climate threat or mitigation strategy with co-benefits?**. Environmental Research Letters, 18(3), 034010.](https://doi.org/10.1088/1748-9326/acb501)
+
+[Jones, S. M., Smith, A. C., <u>Leach, N.</u>, Henrys, P., Atkinson, P. M., & Harrison, P. A. (2023). **Pathways to achieving nature-positive and carbon–neutral land use and food systems in Wales**. Regional Environmental Change, 23(1), 37.](https://doi.org/10.1007/s10113-023-02041-2)
+
+[Smith, A. C., Harrison, P. A., <u>Leach, N. J.</u>, Godfray, H. C. J., Hall, J. W., Jones, S. M., ... & Obersteiner, M. (2023). **Sustainable pathways towards climate and biodiversity goals in the UK: the importance of managing land-use synergies and trade-offs**. Sustainability Science, 18(1), 521-538.](https://doi.org/10.1007/s11625-022-01242-8)
+
 ### 2022
 
-[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2022). **Generating samples of extreme winters to support climate adaptation**. Weather and Climate Extremes, 100419.](https://doi.org/10.1016/j.wace.2022.100419){:target="_blank"}.
+[Mosnier, A., Schmidt-Traub, G., Obersteiner, M., Jones, S., Javalera-Rincon, V., DeClerck, F., <u>...</u> & Wang, X. (2022). **How can diverse national food and land-use priorities be reconciled with global sustainability targets? Lessons from the FABLE initiative**. Sustainability Science, 1-11.](https://doi.org/10.1007/s11625-022-01227-7){:target="_blank"}.
+
+[<u>Leach, N. J.</u>, Watson, P. A. G., Sparrow, S. N., Wallom, D. C. H., Sexton, D. M. H. (2022). **Generating samples of extreme winters to support climate adaptation**. Weather and Climate Extremes, 100419.](https://doi.org/10.1016/j.wace.2022.100419){:target="_blank"}
 
 ### 2021
 
