@@ -6,6 +6,11 @@ permalink: /publications/
 
 ### 2023
 
+[Thompson, V., Mitchell, D., Hegerl, G. C., Collins, M., <u>Leach, N. J.</u>, & Slingo, J. M. (2023). T**he most at-risk regions in the world for high-impact heatwaves**. Nature Communications, 14(1), Article 1.](https://doi.org/10.1038/s41467-023-37554-1)
+
+
+[Mosnier, A., Javalera-Rincon, V., Jones, S. K., Andrew, R., Bai, Z., Baker, J., Basnet, S., Boer, R., Chavarro, J., Costa, W., Daloz, A. S., DeClerck, F. A., Diaz, M., Douzal, C., Fan, A. C. H., Fetzer, I., Frank, F., Gonzalez-Abraham, C. E., Habiburrachman, A. H. F., <u>…</u> Zerriffi, H. (2023). **A decentralized approach to model national and global food and land use systems**. Environmental Research Letters, 18(4), 045001.](https://doi.org/10.1088/1748-9326/acc044)
+
 [Floess, E., Grieshop, A., Puzzolo, E., Pope, D., <u>Leach, N.</u>, Smith, C. J., ... & Bailis, R. (2023). **Scaling up gas and electric cooking in low-and middle-income countries: climate threat or mitigation strategy with co-benefits?**. Environmental Research Letters, 18(3), 034010.](https://doi.org/10.1088/1748-9326/acb501)
 
 [Jones, S. M., Smith, A. C., <u>Leach, N.</u>, Henrys, P., Atkinson, P. M., & Harrison, P. A. (2023). **Pathways to achieving nature-positive and carbon–neutral land use and food systems in Wales**. Regional Environmental Change, 23(1), 37.](https://doi.org/10.1007/s10113-023-02041-2)
