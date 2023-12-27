@@ -1,5 +1,5 @@
 email:
-  id: 'nicholas.leach@stx.ox.ac.uk'
+  id: 'nicholas.leach@physics.ox.ac.uk'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fas fa-envelope'
@@ -28,8 +28,8 @@ orcid:
   title: 'ORCiD'
   fa-icon: 'fab fa-orcid'
 
-publons:
-  id: '3277091/nicholas-j-leach'
-  href: 'https://publons.com/researcher/'
-  title: 'publons'
-  fa-icon: 'fas fa-file fa-flip-horizontal'
+WoS:
+  id: 'record/2257437'
+  href: 'https://www.webofscience.com/wos/author/'
+  title: 'Web of Science'
+  fa-icon: 'fas fa-atom'
