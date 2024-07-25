@@ -4,9 +4,17 @@ title: publications
 permalink: /publications/
 ---
 
+### 2024
+
+[<u>Leach, N. J.</u>, Roberts, C. D., Aengenheyster, M., Heathcote, D., Mitchell, D. M., Thompson, V., Palmer, T., Weisheimer, A., & Allen, M. R. (2024). **Heatwave attribution based on reliable operational weather forecasts**. Nature Communications, 15(1), 4530.](https://doi.org/10.1038/s41467-024-48280-7){:target="_blank"}
+
+[Ermis, S., <u>Leach, N. J.</u>, Lott, F. C., Sparrow, S. N., & Weisheimer, A. (2024). **Event attribution of a midlatitude windstorm using ensemble weather forecasts**. Environmental Research: Climate.](https://doi.org/10.1088/2752-5295/ad4200){:target="_blank"}
+
+[Lee, D., Sparrow, S., <u>Leach, N.</u>, Osprey, S., Lee, J., & Allen, M. (2024). **The attribution of February extremes over North America: A forecast-based storyline study**.](https://doi.org/10.1175/JCLI-D-24-0074.1){:target="_blank"}
+
 ### 2023
 
-[Thompson, V., Mitchell, D., Hegerl, G. C., Collins, M., <u>Leach, N. J.</u>, & Slingo, J. M. (2023). T**he most at-risk regions in the world for high-impact heatwaves**. Nature Communications, 14(1), Article 1.](https://doi.org/10.1038/s41467-023-37554-1){:target="_blank"}
+[Thompson, V., Mitchell, D., Hegerl, G. C., Collins, M., <u>Leach, N. J.</u>, & Slingo, J. M. (2023). **The most at-risk regions in the world for high-impact heatwaves**. Nature Communications, 14(1), Article 1.](https://doi.org/10.1038/s41467-023-37554-1){:target="_blank"}
 
 
 [Mosnier, A., Javalera-Rincon, V., Jones, S. K., Andrew, R., Bai, Z., Baker, J., Basnet, S., Boer, R., Chavarro, J., Costa, W., Daloz, A. S., DeClerck, F. A., Diaz, M., Douzal, C., Fan, A. C. H., Fetzer, I., Frank, F., Gonzalez-Abraham, C. E., Habiburrachman, A. H. F., <u>…</u> Zerriffi, H. (2023). **A decentralized approach to model national and global food and land use systems**. Environmental Research Letters, 18(4), 045001.](https://doi.org/10.1088/1748-9326/acc044){:target="_blank"}
