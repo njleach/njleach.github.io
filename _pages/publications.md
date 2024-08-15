@@ -8,9 +8,9 @@ permalink: /publications/
 
 [<u>Leach, N. J.</u>, Roberts, C. D., Aengenheyster, M., Heathcote, D., Mitchell, D. M., Thompson, V., Palmer, T., Weisheimer, A., & Allen, M. R. (2024). **Heatwave attribution based on reliable operational weather forecasts**. Nature Communications, 15(1), 4530.](https://doi.org/10.1038/s41467-024-48280-7){:target="_blank"}
 
-[Ermis, S., <u>Leach, N. J.</u>, Lott, F. C., Sparrow, S. N., & Weisheimer, A. (2024). **Event attribution of a midlatitude windstorm using ensemble weather forecasts**. Environmental Research: Climate.](https://doi.org/10.1088/2752-5295/ad4200){:target="_blank"}
+[Ermis, S., <u>Leach, N. J.</u>, Lott, F. C., Sparrow, S. N., & Weisheimer, A. (2024). **Event attribution of a midlatitude windstorm using ensemble weather forecasts**. Environmental Research: Climate, 3, 035001.](https://doi.org/10.1088/2752-5295/ad4200){:target="_blank"}
 
-[Lee, D., Sparrow, S., <u>Leach, N.</u>, Osprey, S., Lee, J., & Allen, M. (2024). **The attribution of February extremes over North America: A forecast-based storyline study**.](https://doi.org/10.1175/JCLI-D-24-0074.1){:target="_blank"}
+[Lee, D., Sparrow, S., <u>Leach, N.</u>, Osprey, S., Lee, J., & Allen, M. (2024). **The attribution of February extremes over North America: A forecast-based storyline study**. Journal of Climate, in press.](https://doi.org/10.1175/JCLI-D-24-0074.1){:target="_blank"}
 
 ### 2023
 
