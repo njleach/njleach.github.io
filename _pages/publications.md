@@ -6,6 +6,10 @@ permalink: /publications/
 
 ### 2024
 
+[Weisheimer, A., Palmer, T., <u>Leach, N.</u>, Allen, M., Roberts, C., & Abid, M. A. (2024). Attributing the extreme 2022 Pakistan Rainfall to CO2-induced Climate Change using Seasonal Forecasts. Research Square.](https://doi.org/10.21203/rs.3.rs-5383732/v1)
+
+[Smith, C., Cummins, D. P., Fredriksen, H.-B., Nicholls, Z., Meinshausen, M., Allen, M., Jenkins, S., <u>Leach, N.</u>, Mathison, C., & Partanen, A.-I. (2024). **<span style="" class="text typewriter">fair-calibrate</span> v1.4.1: Calibration, constraining, and validation of the FaIR simple climate model for reliable future climate projections**. Geoscientific Model Development, 17(23), 8569–8592.](https://doi.org/10.5194/gmd-17-8569-2024){:target="_blank"}
+
 [<u>Leach, N. J.</u>, Roberts, C. D., Aengenheyster, M., Heathcote, D., Mitchell, D. M., Thompson, V., Palmer, T., Weisheimer, A., & Allen, M. R. (2024). **Heatwave attribution based on reliable operational weather forecasts**. Nature Communications, 15(1), 4530.](https://doi.org/10.1038/s41467-024-48280-7){:target="_blank"}
 
 [Ermis, S., <u>Leach, N. J.</u>, Lott, F. C., Sparrow, S. N., & Weisheimer, A. (2024). **Event attribution of a midlatitude windstorm using ensemble weather forecasts**. Environmental Research: Climate, 3, 035001.](https://doi.org/10.1088/2752-5295/ad4200){:target="_blank"}
@@ -15,7 +19,6 @@ permalink: /publications/
 ### 2023
 
 [Thompson, V., Mitchell, D., Hegerl, G. C., Collins, M., <u>Leach, N. J.</u>, & Slingo, J. M. (2023). **The most at-risk regions in the world for high-impact heatwaves**. Nature Communications, 14(1), Article 1.](https://doi.org/10.1038/s41467-023-37554-1){:target="_blank"}
-
 
 [Mosnier, A., Javalera-Rincon, V., Jones, S. K., Andrew, R., Bai, Z., Baker, J., Basnet, S., Boer, R., Chavarro, J., Costa, W., Daloz, A. S., DeClerck, F. A., Diaz, M., Douzal, C., Fan, A. C. H., Fetzer, I., Frank, F., Gonzalez-Abraham, C. E., Habiburrachman, A. H. F., <u>…</u> Zerriffi, H. (2023). **A decentralized approach to model national and global food and land use systems**. Environmental Research Letters, 18(4), 045001.](https://doi.org/10.1088/1748-9326/acc044){:target="_blank"}
 
