@@ -4,11 +4,11 @@ title: publications
 permalink: /publications/
 ---
 
-### 2024
+### 2025
 
 ### 2024
 
-[Weisheimer, A., Palmer, T., <u>Leach, N.</u>, Allen, M., Roberts, C., & Abid, M. A. (2024). Attributing the extreme 2022 Pakistan Rainfall to CO2-induced Climate Change using Seasonal Forecasts. Research Square.](https://doi.org/10.21203/rs.3.rs-5383732/v1)
+[Weisheimer, A., Palmer, T., <u>Leach, N.</u>, Allen, M., Roberts, C., & Abid, M. A. (2024). Attributing the extreme 2022 Pakistan Rainfall to CO2-induced Climate Change using Seasonal Forecasts. Research Square.](https://doi.org/10.21203/rs.3.rs-5383732/v1){:target="_blank"}
 
 [Smith, C., Cummins, D. P., Fredriksen, H.-B., Nicholls, Z., Meinshausen, M., Allen, M., Jenkins, S., <u>Leach, N.</u>, Mathison, C., & Partanen, A.-I. (2024). **<span style="" class="text typewriter">fair-calibrate</span> v1.4.1: Calibration, constraining, and validation of the FaIR simple climate model for reliable future climate projections**. Geoscientific Model Development, 17(23), 8569–8592.](https://doi.org/10.5194/gmd-17-8569-2024){:target="_blank"}
 
