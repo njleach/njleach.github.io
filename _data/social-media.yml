@@ -10,6 +10,12 @@ twitter:
   title: 'Twitter'
   fa-icon: 'fab fa-twitter'
 
+bsky:
+  id: 'profile/nickleach.bsky.social'
+  href: 'https://bsky.app/'
+  title: 'bluesky'
+  fa-icon: 'fa-brands fa-bluesky'
+
 github:
   id: 'njleach'
   href: 'https://github.com/'
