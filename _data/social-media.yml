@@ -2,40 +2,40 @@ email:
   id: 'nicholas.leach@physics.ox.ac.uk'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-solid fa-envelope fa-sm'
+  fa-icon: 'fa-solid fa-envelope fa-xs'
 
 twitter:
   id: 'nickleach0'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-brands fa-twitter fa-sm'
+  fa-icon: 'fa-brands fa-twitter fa-xs'
 
 bsky:
   id: 'profile/nickleach.bsky.social'
   href: 'https://bsky.app/'
   title: 'bluesky'
-  fa-icon: 'fa-brands fa-bluesky fa-sm'
+  fa-icon: 'fa-brands fa-bluesky fa-xs'
 
 github:
   id: 'njleach'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-brands fa-github fa-sm'
+  fa-icon: 'fa-brands fa-github fa-xs'
 
 scholar:
   id: 'oNiRDFIAAAAJ'
   href: 'https://scholar.google.co.uk/citations?user='
   title: 'Google Scholar'
-  fa-icon: 'fa-brands fa-google fa-sm'
+  fa-icon: 'fa-brands fa-google fa-xs'
 
 orcid:
   id: '0000-0003-4470-1813'
   href: 'https://orcid.org/'
   title: 'ORCiD'
-  fa-icon: 'fa-brands fa-orcid fa-sm'
+  fa-icon: 'fa-brands fa-orcid fa-xs'
 
 WoS:
   id: 'record/2257437'
   href: 'https://www.webofscience.com/wos/author/'
   title: 'Web of Science'
-  fa-icon: 'fa-solid fa-atom fa-sm'
+  fa-icon: 'fa-solid fa-atom fa-xs'
