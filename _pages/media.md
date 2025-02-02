@@ -10,10 +10,10 @@ permalink: /media/
 - [*Conversation* article on the Copernicus Global Climate Highlights 2024](https://theconversation.com/global-temperatures-passed-critical-1-5-c-milestone-for-the-first-time-in-2024-new-report-246821){:target="_blank"}
 
 ## Radio
-- [Sky News on Storm Éowyn](){:target="_blank"}
-- [ARD on Storm Éowyn](){:target="_blank"}
-- [Deutschlandfunk on Storm Éowyn](https://www.deutschlandfunk.de/orkantief-owyn-warnstufe-rot-in-irland-und-teilen-grossbritanniens-100.html){:target="_blank"}
-- [Radio ecoshock on our initial attribution study of the direct radiative effect of CO<sub>2</sub> on a winter heatwave](https://www.ecoshock.org/2022/02/fixing-the-climate-hopes-and-hazards.html){:target="_blank"}
+- [*Sky News* on Storm Éowyn](){:target="_blank"}
+- [*ARD* on Storm Éowyn](){:target="_blank"}
+- [*Deutschlandfunk* on Storm Éowyn](https://www.deutschlandfunk.de/orkantief-owyn-warnstufe-rot-in-irland-und-teilen-grossbritanniens-100.html){:target="_blank"}
+- [*Radio ecoshock* on our initial attribution study of the direct radiative effect of CO<sub>2</sub> on a winter heatwave](https://www.ecoshock.org/2022/02/fixing-the-climate-hopes-and-hazards.html){:target="_blank"}
 
 ## Video
 - [*IMSC 15* plenary lecture on forecast-based attribution](https://pacificclimate.org/~IMSC/2-Tuesday/1-Plenaries/Leach.mp4){:target="_blank"}
@@ -30,4 +30,4 @@ permalink: /media/
 - [*Science News* on current research in extreme weather attribution](https://www.science.org/content/article/record-shattering-events-spur-advances-in-tying-climate-change-to-extreme-weather){:target="_blank"}
 - [*CBC* on the hottest week on record](https://www.cbc.ca/news/climate/climate-heat-models-1.6905606){:target="_blank"}
 - [*Scientific American* on a novel approach to estimating the remaining carbon budget](https://www.scientificamerican.com/article/world-has-only-20-years-to-meet-ambitious-1-5-degree-c-warming-threshold/){:target="_blank"}
-- [CNN on Storm Éowyn](https://edition.cnn.com/2025/01/23/europe/storm-eowyn-uk-ireland-intl-latam/index.html){:target="_blank"}
+- [*CNN* on Storm Éowyn](https://edition.cnn.com/2025/01/23/europe/storm-eowyn-uk-ireland-intl-latam/index.html){:target="_blank"}
