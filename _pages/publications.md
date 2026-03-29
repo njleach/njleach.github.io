@@ -8,9 +8,9 @@ permalink: /publications/
 
 ### 2025
 
-[Shapland, Chin Yang, Y. T. Eunice Lo, <u>Nicholas J. Leach</u>, Éric Lavigne, Kate Tilling, & Dann M. Mitchell. **Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave**. Science Advances 11, no. 47 (2025): eadw8268.](https://doi.org/10.1126/sciadv.adw8268){:target="_blank"}
+[Shapland, C. Y., Lo, Y. T. E., <u>Leach, N. J.</u>, Lavigne, É., Tilling, K., & Mitchell, D. M. (2025). **Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave**. Science Advances, 11(47), eadw8268.](https://doi.org/10.1126/sciadv.adw8268){:target="_blank"}
 
-[Weisheimer, Antje, Tim N. Palmer, <u>Nicholas J. Leach</u>, Myles R. Allen, Christopher D. Roberts, and Muhammad Adnan Abid. **CO<sub>2</sub>-induced climate change assessment for the extreme 2022 Pakistan rainfall using seasonal forecasts**. Npj Climate and Atmospheric Science 8, no. 1 (2025): 262.](https://doi.org/10.1038/s41612-025-01136-3){:target="_blank"}
+[Weisheimer, A., Palmer, T. N., <u>Leach, N. J.</u>, Allen, M. R., Roberts, C. D., & Abid, M. A. (2025). **CO2-induced climate change assessment for the extreme 2022 Pakistan rainfall using seasonal forecasts**. npj Climate and Atmospheric Science, 8(1), 262.](https://doi.org/10.1038/s41612-025-01136-3){:target="_blank"}
 
 ### 2024
 
