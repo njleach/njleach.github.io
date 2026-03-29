@@ -4,11 +4,15 @@ title: publications
 permalink: /publications/
 ---
 
+### 2026
+
 ### 2025
 
-### 2024
+[Shapland, Chin Yang, Y. T. Eunice Lo, <u>Nicholas J. Leach</u>, Éric Lavigne, Kate Tilling, & Dann M. Mitchell. **Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave**. Science Advances 11, no. 47 (2025): eadw8268.](https://doi.org/10.1126/sciadv.adw8268){:target="_blank"}
 
-[Weisheimer, A., Palmer, T., <u>Leach, N.</u>, Allen, M., Roberts, C., & Abid, M. A. (2024). Attributing the extreme 2022 Pakistan Rainfall to CO2-induced Climate Change using Seasonal Forecasts. Research Square.](https://doi.org/10.21203/rs.3.rs-5383732/v1){:target="_blank"}
+[Weisheimer, Antje, Tim N. Palmer, <u>Nicholas J. Leach</u>, Myles R. Allen, Christopher D. Roberts, and Muhammad Adnan Abid. **CO<sub>2</sub>-induced climate change assessment for the extreme 2022 Pakistan rainfall using seasonal forecasts**. Npj Climate and Atmospheric Science 8, no. 1 (2025): 262.](https://doi.org/10.1038/s41612-025-01136-3){:target="_blank"}
+
+### 2024
 
 [Smith, C., Cummins, D. P., Fredriksen, H.-B., Nicholls, Z., Meinshausen, M., Allen, M., Jenkins, S., <u>Leach, N.</u>, Mathison, C., & Partanen, A.-I. (2024). **<span style="" class="text typewriter">fair-calibrate</span> v1.4.1: Calibration, constraining, and validation of the FaIR simple climate model for reliable future climate projections**. Geoscientific Model Development, 17(23), 8569–8592.](https://doi.org/10.5194/gmd-17-8569-2024){:target="_blank"}
 
