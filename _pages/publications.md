@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2026
 
+[<u>Leach, N. J.</u>, Ermis, S., Brocklehurst, A., Kumar, D., Georgios, A., Braun, L., Dixon, M., Murphy, J., & Shaffrey, L. (2026). **The perfect storm: Human influence on the loss potential of Eunice-like cyclones**. Environmental Research Letters, in press.](https://doi.org/10.22541/essoar.175096330.07547825/v1){:target="_blank"}
+
 ### 2025
 
 [Shapland, C. Y., Lo, Y. T. E., <u>Leach, N. J.</u>, Lavigne, É., Tilling, K., & Mitchell, D. M. (2025). **Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave**. Science Advances, 11(47), eadw8268.](https://doi.org/10.1126/sciadv.adw8268){:target="_blank"}
