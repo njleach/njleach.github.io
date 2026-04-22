@@ -1,19 +1,21 @@
-/* Open when someone clicks on the span element */
-function openNav() {
-    var buttonPos = document.getElementById("mobileMenu");
-    var buttonObj = document.getElementById("opnclsbtn");
-    if (buttonPos.style.left == "100%" || buttonPos.style.left == "") {
-        buttonPos.style.left = "0%";
-        buttonObj.style.transform = "rotate(45deg)";
-    } else {
-        buttonPos.style.left = "100%";
-        buttonObj.style.transform = "rotate(0deg)";
-    }
+function toggleNav(forceState) {
+    var menu = document.getElementById("mobileMenu");
+    var buttonIcon = document.getElementById("opnclsbtn");
+    var button = document.querySelector("#masthead a.openbtn");
+    var shouldOpen = typeof forceState === "boolean" ? forceState : !menu.classList.contains("is-open");
+
+    menu.classList.toggle("is-open", shouldOpen);
+    document.body.classList.toggle("menu-open", shouldOpen);
+    buttonIcon.style.transform = shouldOpen ? "rotate(45deg)" : "rotate(0deg)";
+    button.setAttribute("aria-expanded", shouldOpen ? "true" : "false");
 }
 
 /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
+  if (document.body.classList.contains("menu-open")) {
+    return;
+  }
   var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
     document.getElementById("masthead").style.top = "0";

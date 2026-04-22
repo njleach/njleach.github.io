@@ -1,5 +1,8 @@
 <!-- The overlay -->
 <div id="mobileMenu" class="overlay">
+    <button type="button" class="mobile-menu-close" onclick="toggleNav(false)" aria-label="Close navigation menu">
+        <i class="fa fa-plus"></i>
+    </button>
   
     <!-- Overlay content -->
     <div class="overlay-content">
@@ -7,7 +10,7 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="mobileMenu-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            <a class="mobileMenu-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}" onclick="toggleNav(false)">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
