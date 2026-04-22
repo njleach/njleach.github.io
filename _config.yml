@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: njleach
 email: nicholas.leach@stx.ox.ac.uk
-description: physics | climate | python
+description: climate | risk | statistics
 webaddress: "http://njleach.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
